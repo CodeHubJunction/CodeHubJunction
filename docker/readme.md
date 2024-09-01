@@ -2,4 +2,4 @@
 
 ## Introduction
 
-![Alt text](/pictures/01_docker_introduction/01_dockerArchitecture.png)
+![Docker Architecture](./pictures/01_docker_introduction/01_dockerArchitecture.png)
